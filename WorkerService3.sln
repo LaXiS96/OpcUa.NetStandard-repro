@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkerService3", "WorkerService3\WorkerService3.csproj", "{B5118DB9-33C1-4E4A-B9AB-30AAAC8E0462}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opc.Ua.Core", "UA-.NETStandard-1.4.365.23\Stack\Opc.Ua.Core\Opc.Ua.Core.csproj", "{9AD59FB1-2794-41FF-97B4-10C75ED165DF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opc.Ua.Security.Certificates", "UA-.NETStandard-1.4.365.23\Libraries\Opc.Ua.Security.Certificates\Opc.Ua.Security.Certificates.csproj", "{934F599C-6A13-4EB1-9554-887C0CA48064}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opc.Ua.Configuration", "UA-.NETStandard-1.4.365.23\Libraries\Opc.Ua.Configuration\Opc.Ua.Configuration.csproj", "{C240C807-30CC-4BB6-84CE-8869B433E0BF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opc.Ua.Client", "UA-.NETStandard-1.4.365.23\Libraries\Opc.Ua.Client\Opc.Ua.Client.csproj", "{AA63BA51-E61E-44EA-AF4B-41B2E4539F00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5118DB9-33C1-4E4A-B9AB-30AAAC8E0462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5118DB9-33C1-4E4A-B9AB-30AAAC8E0462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5118DB9-33C1-4E4A-B9AB-30AAAC8E0462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5118DB9-33C1-4E4A-B9AB-30AAAC8E0462}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AD59FB1-2794-41FF-97B4-10C75ED165DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AD59FB1-2794-41FF-97B4-10C75ED165DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AD59FB1-2794-41FF-97B4-10C75ED165DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AD59FB1-2794-41FF-97B4-10C75ED165DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{934F599C-6A13-4EB1-9554-887C0CA48064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{934F599C-6A13-4EB1-9554-887C0CA48064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{934F599C-6A13-4EB1-9554-887C0CA48064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{934F599C-6A13-4EB1-9554-887C0CA48064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C240C807-30CC-4BB6-84CE-8869B433E0BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C240C807-30CC-4BB6-84CE-8869B433E0BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C240C807-30CC-4BB6-84CE-8869B433E0BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C240C807-30CC-4BB6-84CE-8869B433E0BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA63BA51-E61E-44EA-AF4B-41B2E4539F00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA63BA51-E61E-44EA-AF4B-41B2E4539F00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA63BA51-E61E-44EA-AF4B-41B2E4539F00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA63BA51-E61E-44EA-AF4B-41B2E4539F00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7836E06D-B64B-425F-BDD3-74802482F628}
+	EndGlobalSection
+EndGlobal
